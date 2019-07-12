@@ -2,9 +2,14 @@
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
     <option name="allowDataCollection" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="Dot" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="c10100" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-6d30a444:16be5a51c75:-8000" />
